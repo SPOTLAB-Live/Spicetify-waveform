@@ -1,7 +1,7 @@
 {
   "name": "Waveform",
   "description": "Waveform seekbar generated from Spotify audio analysis API.",
-  "preview": "assets/waveform-preview.jpg",
+  "preview": "assets/waveform-preview.png",
   "main": "waveform.js",
   "readme": "README.md",
   "authors": [
