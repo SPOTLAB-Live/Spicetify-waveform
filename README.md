@@ -56,7 +56,8 @@ This extension is designed to work with the latest version of Spicetify. It may 
 
 - The extension may not work if Spotify's audio analysis API changes or becomes unavailable.
 - Some tracks may not have audio analysis data available, in which case the original seekbar will be used.
-- If the player is paused and the waveform seekbar is clicked, the progress will not update until the track begins playing.
+- This extension will likely not work with other extensions which also modify the seekbar.
+- If the player is paused and the waveform seekbar is clicked, the progress will not update until the track begins playing again.
 - Theme color changes may not apply while the track is paused. Playing the track will trigger the color updates.
 
 ## Contributing
