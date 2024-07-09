@@ -1,7 +1,7 @@
 // @ts-nocheck
 // NAME: Waveform
 // AUTHOR: SPOTLAB
-// VERSION: 1.0.0
+// VERSION: 1.0.1
 // DESCRIPTION: Waveform seekbar generated from Spotify audio analysis API.
 
 /// <reference path='../globals.d.ts' />
@@ -200,7 +200,7 @@
           const endIndex = Math.min(Math.floor((segment.start + segment.duration) / segmentDuration), dataPoints - 1);
           
           // Normalize loudness to a value between 0 and 1
-          const normalizedLoudness = 1 - (Math.min(Math.max(segment.loudness_max, -60), 0) / -60);
+          const normalizedLoudness = 1 - (Math.min(Math.max(segment.loudness_max, -40), 0) / -40);
           
           // Apply contrast adjustment
           const adjustedLoudness = Math.pow(normalizedLoudness, this.contrastFactor);
