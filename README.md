@@ -29,6 +29,8 @@ Waveform is a extension for Spicetify that replaces the default seekbar in the S
 4. Add the extension name to your Spicetify config: `spicetify config extensions waveform.js`
 5. Apply the changes: `spicetify apply`
 
+Or, you can simply install this extension from the Spicetify Marketplace.
+
 ## Usage
 
 Once installed and enabled, the extension will automatically replace the default seekbar with the waveform visualization for each track. No additional user action is required.
