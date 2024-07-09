@@ -1,8 +1,12 @@
 # Spicetify Waveform Seekbar
 
+<p align="center">
+  <img src="assets/waveform-example.jpg" alt="Waveform Seekbar Example" width="700"/>
+</p>
+
 ## Description
 
-Waveform is a extension for Spicetify that replaces the default seekbar in the Spotify player with a dynamic waveform visualization. This extension fetches audio analysis data from Spotify's API and generates a visual representation of the track's waveform, similar to the SoundCloud player interface.
+Waveform is a extension for Spicetify that replaces the default seekbar in the Spotify player with a dynamic waveform visualization. This extension fetches audio analysis data from Spotify's API and generates a visual representation of the track's waveform, similar to the SoundCloud player and basically all DJ software.
 
 ## Features
 
@@ -57,11 +61,11 @@ This extension is designed to work with the latest version of Spicetify. It may 
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page]([link-to-your-issues-page](https://github.com/SPOTLAB-Live/Spicetify-waveform/issues)) if you want to contribute.
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of this license.
+This project is licensed under the [MIT License](https://github.com/SPOTLAB-Live/Spicetify-waveform/blob/main/LICENSE.md). Feel free to use, modify, and distribute the code as per the terms of this license.
 
 ## Acknowledgements
 
