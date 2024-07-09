@@ -1,0 +1,20 @@
+{
+  "name": "Waveform",
+  "description": "Waveform seekbar generated from Spotify audio analysis API.",
+  "preview": "assets/waveform-preview.jpg",
+  "main": "waveform.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "SPOTLAB",
+      "url": "https://github.com/SPOTLAB-Live"
+    }
+  ],
+  "tags": [
+    "spicetify",
+    "waveform",
+    "wave",
+	"dj",
+	"soundcloud"
+  ]
+}
