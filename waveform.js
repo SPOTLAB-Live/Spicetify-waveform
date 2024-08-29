@@ -270,7 +270,7 @@
           top: 0;
           width: 2px;
           height: 100%;
-          background-color: #ffffff;
+          background-color: var(--spice-subtext);
           opacity: 0;
           pointer-events: none;
           transition: opacity 0.1s ease;
@@ -284,8 +284,8 @@
           position: absolute;
           top: -20px;
           transform: translateX(-50%);
-          background-color: rgba(0, 0, 0, 0.7);
-          color: #ffffff;
+          background-color: rgba(var(--spice-rgb-main), 0.7);
+          color: var(--spice-subtext);
           padding: 2px 4px;
           border-radius: 3px;
           font-size: 10px;
