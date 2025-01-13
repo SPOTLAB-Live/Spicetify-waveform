@@ -1,5 +1,17 @@
 # Spicetify Waveform Seekbar
 
+> ⚠️ **DEPRECATED - NO LONGER MAINTAINED**
+>
+> **As of January 2025, this extension is no longer functional or maintained.**
+>
+> Due to [changes in the Spotify Web API](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api), the audio analysis endpoints required for this extension are no longer available. As a result, this extension cannot function as intended and will not be maintained further.
+>
+> This repository has been archived for historical reference. No further updates or support will be provided.
+>
+> Thank you to everyone who used and supported this project!
+
+---
+
 <p align="center">
   <img src="assets/waveform-example.jpg" alt="Waveform Seekbar Example" width="700"/>
 </p>
